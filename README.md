@@ -2,12 +2,16 @@
   <a href="http://gawoori.net" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:h7143084090@gmail.com" target="_blank"><img src="https://img.shields.io/badge/h7143084090@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sang-hyun-han-36919b92/" target="_blank"><img src="https://img.shields.io/badge/SangHyunHan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <!-- <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/hanbrandon/" target="_blank"><img src="https://img.shields.io/badge/@hanbrandon-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
+### 🦸‍♂️ About me
+
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack web developer</b>.🚀<br/>
-  I have experience 3 years of Web development.<br/>
+  👋&nbsp; Hi there! I'm a self-taught <b>full stack web developer</b>.🚀<br/>
+  Over the past few years, I have been working for various startup companies.<br/>
+  I like new business ideas, and I am always thinking about new ideas.💡<br/>
+  I hope to create my platform service site that people love it. ❤<br/>
 </p>
 
 ### 💪 Skills
@@ -29,7 +33,8 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Boostrap-7952B3?style=flat-square&logo=Boostrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Material_UI-06B6D4?style=flat-square&logo=MUI&logoColor=white"/>
 
 </p>
 
@@ -52,6 +57,6 @@
 
 <p> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 
 </p>
