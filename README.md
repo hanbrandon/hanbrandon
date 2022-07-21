@@ -9,10 +9,10 @@
 ### 🦸‍♂️ About me
 
 <p>
-  👋&nbsp; Hi there! I'm a self-taught <b>full stack web developer</b>.🚀<br/>
-  Over the past few years, I have been working for various startup companies.<br/>
-  I like new business ideas, and I am always thinking about new ideas.💡<br/>
-  I hope to create my platform service site that people love it. ❤<br/>
+  👋&nbsp; hello! I'm Brandon, a self-taught full-stack web developer.🚀<br/>
+For the past few years, I have worked as a full-stack web developer at various startup companies and as a contract front-end developer at Apple.<br/>
+I love new business ideas and I'm always thinking of new ones.💡<br/>
+I want to create a platform service site that people love. <br/>Check out my main skillset below! ❤<br/>
 </p>
 
 ### 💪 Skills
