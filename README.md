@@ -17,7 +17,7 @@ I want to create a platform service site that people love. <br/>Check out my mai
 
 ### 💪 Skills
 
-#### Program Languages
+#### Web Technologies
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
