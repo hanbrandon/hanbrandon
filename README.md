@@ -9,10 +9,13 @@
 ### 🦸‍♂️ About me
 
 <p>
-  👋&nbsp; hello! I'm Brandon, a self-taught full-stack web developer.🚀<br/>
-For the past few years, I have worked as a full-stack and front-end web developer at various companies.<br/>
-I love new business ideas and I'm always thinking of new ones.💡<br/>
-I want to create a platform service site that people love. <br/>Check out my main skillset below! ❤<br/>
+  👋 Hello! I'm Brandon, a self-taught full-stack web developer with a passion for building clean, scalable, and user-friendly web applications.<br/>
+
+For the past few years, I’ve worked as both a full-stack and front-end developer at several companies, gaining real-world experience and sharpening my skills along the way. I enjoy working on new ideas, especially ones that have the potential to become services people truly love.<br/>
+
+I'm always exploring new concepts and thinking about how to turn them into something valuable. My goal is to build a platform that people not only use, but genuinely enjoy.<br/>
+
+Feel free to check out my main skillset below. Let’s create something awesome together! 🚀<br/>
 </p>
 
 ### 💪 Skills
