@@ -1,5 +1,4 @@
 <p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanbrandon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
   <a href="http://gawoori.net" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:h7143084090@gmail.com" target="_blank"><img src="https://img.shields.io/badge/h7143084090@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sang-hyun-han-36919b92/" target="_blank"><img src="https://img.shields.io/badge/SangHyunHan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
